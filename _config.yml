@@ -1,10 +1,12 @@
 # Example Site settings
-
+title: 'br0wnboi corner of the interwebs'
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
   - index.md
   - about.md
+  - resume.md
+  - blog.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
@@ -15,3 +17,4 @@ plugins:
   - jekyll-seo-tag
 
 theme: jekyll-theme-console
+
