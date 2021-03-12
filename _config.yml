@@ -1,4 +1,3 @@
-# Example Site settings
 title: br0wnboi's corner on the interwebs
 #google_analytics: UA-NNNNNNNN-N
 
@@ -17,6 +16,7 @@ listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
 
 theme: jekyll-theme-console
 

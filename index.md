@@ -19,8 +19,11 @@ permalink: /
 > **_Such is life, my friend_**
 
 
-<p style="text-align:center">
+<p style="display:inline">
 Things I do:
 
-<a style="display:inline" target="new" href="https://github.com/br0wnboi"><img style="display:inline" src="./img/Social_Icons/github.png"  width="7%" height=auto alt="github">	</a><a style="display:inline" target="new" href="https://twitter.com/br0wnboi"><img style="display:inline" src="./img/Social_Icons/twitter.png"  width="7%" height=auto alt="twitter"></a>	<a style="display:inline" target="new" href="https://tryhackme.com/p/br0wnboi"><img style="display:inline" src="./img/Social_Icons/thm.png"  width="7%" height=auto alt="tryhackme"></a>
+<a style="display:inline" target="new" href="https://github.com/br0wnboi"><img style="display:inline" src="./img/Social_Icons/github.png"  width="7%" height=auto alt="github"></a>	<a style="display:inline" target="new" href="https://twitter.com/br0wnboi"><img style="display:inline" src="./img/Social_Icons/twitter.png"  width="7%" height=auto alt="twitter"></a>	<a style="display:inline" target="new" href="https://tryhackme.com/p/br0wnboi"><img style="display:inline" src="./img/Social_Icons/thm.png"  width="7%" height=auto alt="tryhackme"></a>	<a style="display:inline" target="new" href="./feed.xml"><img style="display:inline" src="./img/Social_Icons/rss.png"  width="7%" height=auto alt="rss"></a>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/br0wnboi.png" alt="TryHackMe">
+
 </p>

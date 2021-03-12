@@ -1,4 +1,4 @@
-I"F<h1 id="upcoming-features-id-like-to-add-to-this-website">Upcoming Features I’d like to add to this website.</h1>
+I"�<h1 id="upcoming-features-id-like-to-add-to-this-website">Upcoming Features I’d like to add to this website.</h1>
 
 <hr />
 
@@ -9,7 +9,8 @@
 <hr />
 
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />obtain any official domain rather than the github pages link</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><del>obtain any official domain rather than the github pages link</del></li>
+  <li class="task-list-item">[] get a RSS feed working for the blog</li>
   <li class="task-list-item">[] get the other domain (br0wnboi.*)</li>
   <li class="task-list-item">[] custom host the website to digitalocean or some VPS rather than github pages</li>
   <li class="task-list-item">[] get custom email address with the domain</li>

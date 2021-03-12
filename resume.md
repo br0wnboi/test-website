@@ -5,7 +5,7 @@ permalink: /resume
 ---
 
 # Akshat Kukreja
-akukreja987@gmail.com
+Email: <a href="mailto:akukreja987@gmail">akukreja987@gmail</a>
 New Delhi, India
 
 
