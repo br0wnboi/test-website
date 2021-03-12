@@ -1,5 +1,5 @@
 # Example Site settings
-title: 'br0wnboi corner of the interwebs'
+title: br0wnboi's corner on the interwebs
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
@@ -7,9 +7,11 @@ header_pages:
   - about.md
   - resume.md
   - blog.md
+  - features.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
+future: true
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
 

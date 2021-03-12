@@ -16,7 +16,13 @@ New Delhi, India
 **Majoring in Bachelor of Computer Applications (BCA)**
 Vivekananda Institute Of Professional Studies
 **Expected Gradutaion**: 2023
-**Relevant Coursework**: Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts, C, C++
+
+**Skillset**: Linux, VAPT, Burpsuite, Web-App Pentesting, Security Concepts
+
+**Relevant Coursework from College**: Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts, C, C++
+
+# **UNDER PROGRESS**
+
 
 *****
 

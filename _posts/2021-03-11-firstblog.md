@@ -1,13 +1,23 @@
 ---
 layout: post
-author: jill
+title: Welcome?
+author: br0wnboi
 ---
-# Heading
-A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.
+# Welcome!
 
-In some countries, bananas used for cooking may be called "plantains",
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.
+Hi to anyone who's reading this, this post marks the birth of this website, hopefully I'll be updating it regularly, I'm gonna post anything I learn about here maybe even some tutorials.
+
+This website has been hosted on github as of now, future plans include buying
+a proper domain name for it like,
+
+* brownboi.tech
+* br0wnboi.tech
+* br0wnboi.me
+* br0wnboi.xyz
+
+I'm still thinking about which one to go for, future plan is to eventually get both of those and redirect them to each other and use the `br0wnboi.*` as the main domain.
+
+I guess that's it for now.
+Peace. \*<3\*
+
+
