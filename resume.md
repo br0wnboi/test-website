@@ -5,7 +5,7 @@ permalink: /resume
 ---
 
 # Akshat Kukreja
-Email: <a href="mailto:akukreja987@gmail">akukreja987@gmail</a>
+Email: <akukreja987@gmail>
 New Delhi, India
 
 
@@ -19,7 +19,7 @@ Vivekananda Institute Of Professional Studies
 
 **Skillset**: Linux, VAPT, Burpsuite, Web-App Pentesting, Security Concepts
 
-**Relevant Coursework from College**: Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts, C, C++
+**Relevant Coursework from College**: Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts
 
 # **UNDER PROGRESS**
 

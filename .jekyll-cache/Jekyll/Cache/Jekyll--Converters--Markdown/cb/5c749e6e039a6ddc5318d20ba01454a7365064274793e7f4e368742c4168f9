@@ -1,0 +1,21 @@
+I"þ<h1 id="upcoming-features-id-like-to-add-to-this-website">Upcoming Features Iâ€™d like to add to this website.</h1>
+
+<hr />
+
+<blockquote>
+  <p>Last Updated: 03:22 AM 13-03-2021</p>
+</blockquote>
+
+<hr />
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><del>obtain any official domain rather than the github pages link</del></li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" /><del>get a RSS feed working for the blog</del></li>
+  <li class="task-list-item">[] get the other domain (br0wnboi.*)</li>
+  <li class="task-list-item">[] custom host the website to digitalocean or some VPS rather than github pages</li>
+  <li class="task-list-item">[] get custom email address with the domain</li>
+  <li class="task-list-item">[] host the above mentioned on the server</li>
+  <li class="task-list-item">[] maybe have a gopher version hosted</li>
+</ul>
+
+:ET

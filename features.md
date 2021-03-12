@@ -14,7 +14,7 @@ permalink: /features
 
 
 - [x] ~~obtain any official domain rather than the github pages link~~
-- [] ~~get a RSS feed working for the blog~~
+- [x] ~~get a RSS feed working for the blog~~
 - [] get the other domain (br0wnboi.*)
 - [] custom host the website to digitalocean or some VPS rather than github pages
 - [] get custom email address with the domain
