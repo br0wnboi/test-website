@@ -4,7 +4,7 @@ layout: default
 permalink: /
 ---
 
-# Lorem ipsum
+
 
 <pre>
     __         ____                 __          _    
@@ -15,8 +15,9 @@ permalink: /
                                                     
 </pre>
 
-My Quote:
-> Such is life, my friend
+
+> **_Such is life, my friend_**
+
 
 <p style="text-align:center">
 Things I do:
