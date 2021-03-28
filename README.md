@@ -1,4 +1,2 @@
-# test-website
-testing out some website things
-
+# Static Portfolio Website
 
