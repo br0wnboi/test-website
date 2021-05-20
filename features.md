@@ -21,4 +21,4 @@ permalink: /features
 - [] get custom email address with the domain
 - [] host the above mentioned on the server
 - [] maybe have a gopher version hosted
-
+- [] Flex
