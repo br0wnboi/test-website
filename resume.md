@@ -21,6 +21,8 @@ Vivekananda Institute Of Professional Studies
 
 **Relevant Coursework from College**: Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts
 
+<script src="https://tryhackme.com/badge/98590"></script>
+
 # **UNDER PROGRESS**
 
 
