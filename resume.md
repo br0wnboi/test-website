@@ -24,7 +24,7 @@ Vivekananda Institute Of Professional Studies
 
 ******
 **Talks**
-- [From A Friendly Hacker's Perspective] ()
+- [From A Friendly Hacker's Perspective]()
 Given at the September ACE Hour highlighting the journey of being a New Hacker and how we view the world. Also talked about the prevelance of Cybercrime in the Country.
 
 ******
@@ -32,19 +32,20 @@ Given at the September ACE Hour highlighting the journey of being a New Hacker a
 **My Work**
 - [Jekyll Website](https://github.com/br0wnboi/test-website)
 Created a basic website with static elements to host on GitHub Pages as my personal website portfolio and resume.
+<br>
 
-- [THMate] (https://github.com/br0wnboi/thmate)
+- [THMate](https://github.com/br0wnboi/thmate)
 Bash Shell Script which uses ```curl```  ```jq``` and TryHackMe API to show your current TryHackMe Ranks, Stats and Badge Details.
 
 *******
 
 **Certifications**
 
-- [Internshala Ethical Hacking Training](https://trainings.internshala.com/s/v/210597/7866aeef)
+* [Internshala Ethical Hacking Training](https://trainings.internshala.com/s/v/210597/7866aeef)
 
-- [Gurugram Police Cyber Security Internship](./img/GPCSSI-Akshat.jpg)
+* [Gurugram Police Cyber Security Internship](./img/GPCSSI-Akshat.jpg)
 
-- [OSCP (Coming Up)]
+* [OSCP (Coming Up)]()
 
 
 *****
