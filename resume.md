@@ -10,7 +10,7 @@ Email: <akukreja987@gmail>
 New Delhi, India
 
 
-[Github](https://www.github.com/br0wnboi) [Twitter](https://www.twitter.com/br0wnboi) [TryHackMe](https://tryhackme.com/p/br0wnboi) [Linkedin](https://www.linkedin.com/in/akshat987/)
+[Github](https://www.github.com/br0wnboi){:target="\_blank"} [Twitter](https://www.twitter.com/br0wnboi){:target="\_blank"} [TryHackMe](https://tryhackme.com/p/br0wnboi){:target="\_blank"} [Linkedin](https://www.linkedin.com/in/akshat987/){:target="\_blank"}
 
 *****
 
@@ -21,31 +21,33 @@ Vivekananda Institute Of Professional Studies
 **Skillset**: Linux, VAPT, Burpsuite, Web-App Pentesting, Security Concepts
 
 **Relevant Coursework from College**: Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts
-
+<br>
 ******
 **Talks**
-- [From A Friendly Hacker's Perspective]()
+- [From A Friendly Hacker's Perspective](){:target="\_blank"}
 Given at the September ACE Hour highlighting the journey of being a New Hacker and how we view the world. Also talked about the prevelance of Cybercrime in the Country.
+<br>
 
 ******
 
 **My Work**
-- [Jekyll Website](https://github.com/br0wnboi/test-website)
+
+-[Jekyll Website](https://github.com/br0wnboi/test-website){:target="\_blank"}
 Created a basic website with static elements to host on GitHub Pages as my personal website portfolio and resume.
 <br>
 
-- [THMate](https://github.com/br0wnboi/thmate)
+- [THMate](https://github.com/br0wnboi/thmate){:target="\_blank"}
 Bash Shell Script which uses ```curl```  ```jq``` and TryHackMe API to show your current TryHackMe Ranks, Stats and Badge Details.
 
 *******
 
 **Certifications**
 
-* [Internshala Ethical Hacking Training](https://trainings.internshala.com/s/v/210597/7866aeef)
+* [Internshala Ethical Hacking Training](https://trainings.internshala.com/s/v/210597/7866aeef){:target="\_blank"}
 
-* [Gurugram Police Cyber Security Internship](./img/GPCSSI-Akshat.jpg)
+* [Gurugram Police Cyber Security Internship](./img/GPCSSI-Akshat.jpg){:target="\_blank"}
 
-* [OSCP (Coming Up)]()
+* [OSCP (Coming Up)](){:target="\_blank"}
 
 
 *****
