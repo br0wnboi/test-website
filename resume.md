@@ -5,7 +5,7 @@ permalink: /resume
 ---
 
 # Akshat Kukreja
-Vice President [@ACE](https://vipsace.org/)
+Vice President [@ACE](https://vipsace.org/){:target="\_blank"}
 Email: <akukreja987@gmail>
 New Delhi, India
 
