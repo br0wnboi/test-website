@@ -37,10 +37,10 @@ Given at the September ACE Hour highlighting the journey of being a New Hacker a
 
 **My Work**
 
-[Jekyll Website](https://github.com/br0wnboi/test-website){:target="\_blank"}
+- [Jekyll Website](https://github.com/br0wnboi/test-website){:target="\_blank"}
 Created a basic website with static elements to host on GitHub Pages as my personal website portfolio and resume.
 
-[THMate](https://github.com/br0wnboi/thmate){:target="\_blank"}
+- [THMate](https://github.com/br0wnboi/thmate){:target="\_blank"}
 
 Bash Shell Script which uses ```curl```  ```jq``` and TryHackMe API to show your current TryHackMe Ranks, Stats and Badge Details.
 
@@ -48,11 +48,10 @@ Bash Shell Script which uses ```curl```  ```jq``` and TryHackMe API to show your
 
 **Certifications**
 
-1. [Internshala Ethical Hacking Training](https://trainings.internshala.com/s/v/210597/7866aeef){:target="\_blank"}
+- [Internshala Ethical Hacking Training](https://trainings.internshala.com/s/v/210597/7866aeef){:target="\_blank"}
 
-2. [Gurugram Police Cyber Security Internship](./img/GPCSSI-Akshat.jpg){:target="\_blank"}
+- [Gurugram Police Cyber Security Internship](./img/GPCSSI-Akshat.jpg){:target="\_blank"}
 
-3. [OSCP (Coming Up)](){:target="\_blank"}
 
 
 *******
