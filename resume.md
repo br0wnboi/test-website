@@ -12,6 +12,7 @@ New Delhi, India
 
 [Github](https://www.github.com/br0wnboi){:target="\_blank"} [Twitter](https://www.twitter.com/br0wnboi){:target="\_blank"} [TryHackMe](https://tryhackme.com/p/br0wnboi){:target="\_blank"} [Linkedin](https://www.linkedin.com/in/akshat987/){:target="\_blank"}
 
+
 *****
 
 **Majoring in Bachelor of Computer Applications (BCA)**
@@ -21,22 +22,26 @@ Vivekananda Institute Of Professional Studies
 **Skillset**: Linux, VAPT, Burpsuite, Web-App Pentesting, Security Concepts
 
 **Relevant Coursework from College**: Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts
-<br>
+
+
 ******
+
+
 **Talks**
 - [From A Friendly Hacker's Perspective](){:target="\_blank"}
+
 Given at the September ACE Hour highlighting the journey of being a New Hacker and how we view the world. Also talked about the prevelance of Cybercrime in the Country.
-<br>
+
 
 ******
 
 **My Work**
 
--[Jekyll Website](https://github.com/br0wnboi/test-website){:target="\_blank"}
+[Jekyll Website](https://github.com/br0wnboi/test-website){:target="\_blank"}
 Created a basic website with static elements to host on GitHub Pages as my personal website portfolio and resume.
-<br>
 
-- [THMate](https://github.com/br0wnboi/thmate){:target="\_blank"}
+[THMate](https://github.com/br0wnboi/thmate){:target="\_blank"}
+
 Bash Shell Script which uses ```curl```  ```jq``` and TryHackMe API to show your current TryHackMe Ranks, Stats and Badge Details.
 
 *******
@@ -50,4 +55,4 @@ Bash Shell Script which uses ```curl```  ```jq``` and TryHackMe API to show your
 * [OSCP (Coming Up)](){:target="\_blank"}
 
 
-*****
+*******
