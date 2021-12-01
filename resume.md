@@ -6,7 +6,7 @@ permalink: /resume
 
 # Akshat Kukreja
 Vice President [@ACE](https://vipsace.org/){:target="\_blank"}
-Email: <akukreja987@gmail>
+Email: <akshat987@pm.me>
 New Delhi, India
 
 
@@ -28,7 +28,7 @@ Vivekananda Institute Of Professional Studies
 
 
 **Talks**
-- [From A Friendly Hacker's Perspective](){:target="\_blank"}
+- [From A Friendly Hacker's Perspective](https://youtu.be/uRUBeunmty4){:target="\_blank"}
 
 Given at the September ACE Hour highlighting the journey of being a New Hacker and how we view the world. Also talked about the prevelance of Cybercrime in the Country.
 
@@ -37,11 +37,14 @@ Given at the September ACE Hour highlighting the journey of being a New Hacker a
 
 **My Work**
 
-[Jekyll Website](https://github.com/br0wnboi/test-website){:target="\_blank"}
+- [Jekyll Website](https://github.com/br0wnboi/test-website){:target="\_blank"}
+
 Created a basic website with static elements to host on GitHub Pages as my personal website portfolio and resume.
 
-[THMate](https://github.com/br0wnboi/thmate){:target="\_blank"}
-Bash Shell Script which uses ```curl```  ```jq``` and TryHackMe API to show your current TryHackMe Ranks, Stats and Badge Details.
+
+- [THMate](https://github.com/br0wnboi/thmate){:target="\_blank"}
+
+Bash Shell Script which uses ```curl``` ```jq``` and TryHackMe API to show your current TryHackMe Ranks, Stats and Badge Details.
 
 *******
 
