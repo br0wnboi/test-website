@@ -50,9 +50,8 @@ Bash Shell Script which uses ```curl``` ```jq``` and TryHackMe API to show your 
 
 **Certifications**
 
-- [Internshala Ethical Hacking Training](https://trainings.internshala.com/s/v/210597/7866aeef){:target="\_blank"}
+1. [Internshala Ethical Hacking Training](https://trainings.internshala.com/s/v/210597/7866aeef){:target="\_blank"}
 
-
-- [Gurugram Police Cyber Security Internship](./img/GPCSSI-Akshat.jpg){:target="\_blank"}
+2. [Gurugram Police Cyber Security Internship](./img/GPCSSI-Akshat.jpg){:target="\_blank"}
 
 *******
