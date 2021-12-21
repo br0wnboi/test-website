@@ -10,7 +10,7 @@ Email: <akshat987@pm.me>
 New Delhi, India
 
 
-[Github](https://www.github.com/br0wnboi){:target="\_blank"} [Twitter](https://www.twitter.com/br0wnboi){:target="\_blank"} [TryHackMe](https://tryhackme.com/p/br0wnboi){:target="\_blank"} [Linkedin](https://www.linkedin.com/in/akshat987/){:target="\_blank"}
+[Github](https://www.github.com/br0wnboi){:target="\_blank"} [TryHackMe](https://tryhackme.com/p/br0wnboi){:target="\_blank"} [Linkedin](https://www.linkedin.com/in/akshat987/){:target="\_blank"}
 
 
 *****
