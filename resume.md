@@ -20,11 +20,11 @@ New Delhi, India
 
 **Work Experience**
 
-- **Security Analyst** [CloudSEK] (https://cloudsek.cons){:target="\_blank"}
+**Security Analyst**: [CloudSEK](https://cloudsek.com)
 
-- **Ethical Hacking Instructor** [Tutedude] (https://tutedude.com){:target="\_blank"}
+**Ethical Hacking Instructor**: [Tutedude](https://tutedude.com)
 
-- **Vice President, Security Team Lead** [ACE] (https://vipsace.org){:target="\_blank"}
+**Vice President, Security Team Lead**: [ACE](https://vipsace.org)
 
 
 *****
@@ -32,9 +32,9 @@ New Delhi, India
 
 **Education**
 
-**M.Sc. Cybersecurity** [National Forensic Sciences University, Gujarat](https://nfsu.ac.in){:target="\_blank"}
+**M.Sc. Cybersecurity** : [NFSU, Gujarat](https://nfsu.ac.in){:target="\_blank"}
 
-**Bachelor of Computer Applications**[Vivekananda Institute Of Professional Studies, New Delhi](https://vips.edu){:target="\_blank"}
+**Bachelor of Computer Applications**: [VIPS, New Delhi](https://vips.edu){:target="\_blank"}
 
 **Skillset**: Threat Intelligence, Linux, VAPT, Burpsuite, Web-App Pentesting, Security Concepts
 
