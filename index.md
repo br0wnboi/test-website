@@ -16,7 +16,7 @@ permalink: /
 </pre>
 
 
-> **_Such is life, my friend_**
+> **_Probably explaining someone how to hack something_**
 
 
 <p style="display:inline">
