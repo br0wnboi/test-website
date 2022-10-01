@@ -5,23 +5,29 @@ permalink: /resume
 ---
 
 # Akshat Kukreja
-Vice President [@ACE](https://vipsace.org/){:target="\_blank"}
+Security Analyst [@CloudSEK] (https://cloudsek.com){:target="\_blank"}
 Email: <akshat987@pm.me>
 New Delhi, India
 
 
 [Github](https://www.github.com/br0wnboi){:target="\_blank"} [TryHackMe](https://tryhackme.com/p/br0wnboi){:target="\_blank"} [Linkedin](https://www.linkedin.com/in/akshat987/){:target="\_blank"}
 
-
+**Work Experience**
+- Security Analyst [CloudSEK] (https://cloudsek.cons){:target="\_blank"}
+- Ethical Hacking Instructor [Tutedude] (https://tutedude.com){:target="\_blank"}
+- Vice President, Security Team Lead [ACE] (https://vipsace.org){:target="\_blank"}
 *****
 
-**Majoring in Bachelor of Computer Applications (BCA)**
-Vivekananda Institute Of Professional Studies
-**Expected Gradutaion**: 2023
 
-**Skillset**: Linux, VAPT, Burpsuite, Web-App Pentesting, Security Concepts
+**Education**
 
-**Relevant Coursework from College**: Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts
+- M.Sc. Cybersecurity [National Forensic Sciences University, Gandhinagar, Gujarat](https://nfsu.ac.in){:target="\_blank"}
+
+- Bachelor of Computer Applications [Vivekananda Institute Of Professional Studies, New Delhi](https://vips.edu){:target="\_blank"}
+
+**Skillset**: Threat Intelligence, wLinux, VAPT, Burpsuite, Web-App Pentesting, Security Concepts
+
+**Relevant Coursework from College**: Cyber Defence and Warfare, Windows Forensics, Advanced Computer Networking Concepts, Linux, Web Technologies,Technical Communication, Management Concepts
 
 
 ******
