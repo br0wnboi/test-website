@@ -5,7 +5,7 @@ permalink: /resume
 ---
 
 # Akshat Kukreja
-Security Analyst at [CloudSEK](https://cloudsek.com)
+Pursuing Masters in Cyber Security at [NFSU](https://nfsu.ac.in/){:target="\_blank"}
 Email: <akshat987@pm.me>
 New Delhi, India
 
